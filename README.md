@@ -1,1 +1,8 @@
-# dungeon
+# Dungeon
+
+NYCU OOP project
+
+
+```bash
+make
+```
