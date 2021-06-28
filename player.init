@@ -1,0 +1,10 @@
+player->currentRoom->index 0
+player->previousRoom->index -1
+player->inventory.size() 0
+
+player->maxHealth 20
+player->health 20
+player->attack 0
+player->defense 0
+player->coins 15
+player->name NONAME

@@ -1,0 +1,4 @@
+name NPC_name
+script I'm saying something. This is my script.
+filePath trader.npc
+commodity shield.itm sword.itm

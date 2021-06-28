@@ -1,0 +1,6 @@
+name sword
+health 0
+attack 2
+defense 0
+value 10
+filePath sword.itm

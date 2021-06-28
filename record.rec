@@ -1,0 +1,16 @@
+5
+F 1 -1 -1 -1 n trader.npc
+F 3 0 -1 2 i slime.mt
+F -1 -1 1 -1 t shield_free.itm
+F -1 1 4 -1 f slime.mt
+T -1 -1 -1 3 
+player->currentRoom->index 1
+player->previousRoom->index 0
+player->inventory.size() 1
+sword.itm 
+player->maxHealth 20
+player->health 20
+player->attack 2
+player->defense 0
+player->coins 5
+player->name  apodifao fao fas 

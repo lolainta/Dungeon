@@ -1,0 +1,6 @@
+name shield
+health 0
+attack 0
+defense 2
+value 15
+filePath shield.itm
