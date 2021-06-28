@@ -4,5 +4,5 @@ NYCU OOP project
 
 
 ```bash
-make
+g++ *.cpp
 ```
